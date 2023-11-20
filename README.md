@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="left" style="text-align: justify;">
 I am deeply passionate about software development and team leadership, with a keen focus on harnessing the power of technology to drive innovation and solve real-world challenges. My journey in this field is fueled by a relentless curiosity and a strong belief in the transformative potential of well-crafted software solutions.
 
 My experience spans a range of programming languages and development frameworks, and I am particularly intrigued by the intersection of technology with business processes. This unique blend of interests has guided me in exploring how technological advancements can streamline operations, enhance user experiences, and create value in various industry sectors.

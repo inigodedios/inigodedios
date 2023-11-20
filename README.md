@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Inigo de Dios</h1>
 <p align="center">
-  <a href="https://github.com/inigodedios/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Master+student+&+Business+Technology;+Cloud+AI;DS%20|%20AI%20|%20ML%20enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+Student+of+Computer+Science+and+Business+Technology;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
